@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: sachinjaywal@gmail.com
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: This is the hardest part: I will come up with something soon.
+- ⚡ Fun fact: This is the hardest part; I will come up with something, soon.
 
 <!---
 sshharma/sshharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
